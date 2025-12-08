@@ -23,7 +23,7 @@
         "webpack": "webpack --mode development --progress"
     },
     "optionalDependencies": {
-        "fsevents": "~2.3.2"
+        "fsevents": "~2.3.3"
     },
     "devDependencies": {
         "@types/node": "^17.0.45",
